@@ -1,0 +1,4 @@
+include ':vdownloaderjava'
+include ':app:vdownloader'
+include ':app'
+rootProject.name = "VartDownloaderSupJava"
